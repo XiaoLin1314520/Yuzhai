@@ -9,8 +9,9 @@ Lua解读：
 然后不要关这个窗口，取scripts里面加载我们lua，然后点击扳手那个一样的图标。按照下面的方法导入下面的身法数据。导入完了会显示all *** *** ** data pasted！
  
  
-下面两个导入完了，所有身法就导入完了。
+下面两个导入完了，所有身法就导入完了
  
+视觉lua同理导入
 
-接下来导入道具点位：
-和上面同样的操作，位置在下面图里面。
+![keqing](https://user-images.githubusercontent.com/126746854/222858799-882b4f1c-bb93-4386-a0a9-cb5181b4875e.png)
+![0](https://user-images.githubusercontent.com/126746854/222858828-a93a5ad0-ca27-452d-a1b5-0acbc40a6d5b.png)
